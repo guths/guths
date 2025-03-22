@@ -1,14 +1,14 @@
-## Welcome to my GitHub Profile! / Bem-vindo ao meu Perfil do GitHub!
-
-
 <div align="center">
-  <a href="https://github.com/guths">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=guths&show_icons=true&theme=dark&include_all_commits=true&count_private=true&border_radius=35"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guths&langs_count=7&theme=dark&border_radius=35"/>
+<img src="https://github.com/innng/innng/assets/26755058/5e0ce0fb-c544-4f8c-a307-5849165746d0" width="25%" align="right" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hello+hello;I'm+Ing%2C+a+tech+goblin+and+magical+girl+wannabe+%E2%9C%A9" width="70%" />
+<br><br>
+<pre>
+    💼 BSI @ IFC • Back-end dev • Devops Enthusiast
+    💻 Golang • PHP • Scala 
+    📖 Software architecture • Distributed systems
+    🎮 Esports | CS2
+</pre>
+<br><br>
+<img src="https://preview.redd.it/ssd65kwrn1r91.jpg?width=1170&format=pjpg&auto=webp&s=c99d5e79a8574ed04976dfdf957ccc9aaa097a3f" height="40" />
+<br><br><br>
 </div>
-
-##
- <div align="center"> 
-  <a href="https://www.linkedin.com/in/jonathanguths/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
